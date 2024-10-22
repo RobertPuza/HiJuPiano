@@ -13,6 +13,6 @@ README
 👀 I’m interested in Virtual Instruments with Hise
 🌱 I’m currently learning Hise
 💞️ I’m looking to collaborate on instruments
-📫 How to reach me: puza.robert@gmail.com
+📫 How to reach me: HISE Developer Forum
 😄 Pronouns: ...
 ⚡ Fun fact: I don't know the programming language 🤭
